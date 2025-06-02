@@ -33,7 +33,7 @@ Giám sát và điều khiển từ xa qua điện thoại hoặc giao diện we
 
 Chế độ tiết kiệm năng lượng, tự động tắt servo khi không cần thiết.
 
-📈 Lợi ích:
+<h1>📈 Lợi ích:</h1>
 
 Tối đa hoá hiệu suất thu năng lượng mặt trời.
 
