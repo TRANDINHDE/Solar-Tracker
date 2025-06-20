@@ -1,3 +1,5 @@
+# Link youtube
+https://youtu.be/OIymTWUpR1g
 # Solar-Tracker
 🌞 Hệ thống Solar Tracker sử dụng ESP32 và nền tảng ERa IoT
 
